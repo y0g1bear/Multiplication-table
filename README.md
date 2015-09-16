@@ -30,7 +30,8 @@ you print them. This can be done using the format() function as such:
 ```python
 print("The number is: {0:>3}".format(1))         # Prints "The number is:   1"
 print("The number is: {0:>3}".format(12))        # Prints "The number is:  12"
-print("The number is: {0:>3}".format(123))       # Prints "The number is: 123"```
+print("The number is: {0:>3}".format(123))       # Prints "The number is: 123"
+```
 
 The final multiplication table should look like this:
 
