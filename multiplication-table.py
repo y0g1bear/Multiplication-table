@@ -1,7 +1,7 @@
 """
 multiplication-table.py
 Author:jonh warhold
-Credit: 
+Credit: google search 
 Assignment:
 
 Write and submit a Python program that prints a multiplication table. The user 
